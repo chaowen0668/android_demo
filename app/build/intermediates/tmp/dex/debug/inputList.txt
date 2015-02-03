@@ -1,0 +1,2 @@
+D:\project\git\git_repository\WebView_LJ\app\build\intermediates\classes\debug
+D:\project\git\git_repository\WebView_LJ\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-3600ce3cab2b8b4cb96a0fe15ef9ec363ed943a3.jar
